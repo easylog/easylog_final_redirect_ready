@@ -1,0 +1,1 @@
+export default function ChangeBoardKunde() { return <h1>Einträge für Kunde</h1>; }
